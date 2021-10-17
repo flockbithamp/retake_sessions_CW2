@@ -1,0 +1,16 @@
+#container-1{
+  color: green; 
+  background-color: grey; 
+  width: 50%;
+  height: 400px;
+  float: left;
+  display:inline-block;
+}
+#container-2{
+    color: purple;  
+    background-color: orange; 
+    width: 50%;
+    height: 400px;
+    float: left;
+    display:inline-block;
+  }
